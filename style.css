@@ -1,0 +1,9 @@
+#title, .subtitle, .postitle{
+    color: lightcoral;
+}
+
+.postitle{
+    font-size: 16;
+font-style: italic;
+
+}
